@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] reloj saved to:[D:/Usuarios/rortega/adt/pReloj] at:[4/14/06] 
+(VLISP-PROJECT-LIST
+  :NAME
+  reloj
+  :OWN-LIST
+  ("inic" "react" "interf" "reloj")
+  :FAS-DIRECTORY
+  nil
+  :TMP-DIRECTORY
+  nil
+  :PROJECT-KEYS
+  (:BUILD (:standard) :MERGED T :SAFE-MODE T :MSGLEVEL 1)
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

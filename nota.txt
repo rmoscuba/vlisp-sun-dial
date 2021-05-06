@@ -1,0 +1,9 @@
+
+Poner el rjdialogo.DCL, en el directorio de trabajo del autocad.
+
+Abrir "reloj.prj" y cargar.
+
+En autocad escribir "reloj"
+
+© 2006                Rodolfo M Ortega Santiesteban      
+© 2006               rortega@vertice.cu, rmortega77@yahoo.es        	
